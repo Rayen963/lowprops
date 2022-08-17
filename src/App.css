@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+
+ 
+}
+img{
+  width: 320px;
+  
+}
+
+body{
+  background-image: url(https://thumbs.dreamstime.com/b/machine-learning-hand-robot-touching-binary-data-futuristic-artificial-intelligence-ai-deep-brain-representing-algorithm-154741982.jpg);
+}
+
+.hool{
+  display: flex;
+}
+h1,h2,h3{
+  color: white;
+}
